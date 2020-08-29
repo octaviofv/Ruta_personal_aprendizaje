@@ -2,20 +2,20 @@
 
 # Estadística:
   - Curso de Introducción al Pensamiento Probabilístico
-  -
+  - Curso de Matemáticas Discretas
   
-# Scrapging:
-  - Curso de Web Scraping: Extracción de Datos en la Web
+# Scraping:
+  - Curso de Web Scraping: Extracción de Datos en la Web ✔️
   - Curso de Fundamentos de Web Scraping con Python y Xpath
   - Curso de Scrapy
   
-# Analítica:
-  - Diplomado business intelligence
+# Analítica - Business intelligence:
+  - Diplomado business intelligence 
 
 # Machine learning:
-  - Introducción a la minería de datos 
-  - Curso de Introducción a Machine Learning
-  - Curso de Fundamentos Prácticos de Machine Learning
+  - Introducción a la minería de datos  ✔️
+  - Curso de Introducción a Machine Learning ✔️
+  - Curso de Fundamentos Prácticos de Machine Learning ✔️
   - Curso de Machine Learning para Análisis Predictivo
   - Curso Profesional de Machine Learning con Scikit-Learn
 
