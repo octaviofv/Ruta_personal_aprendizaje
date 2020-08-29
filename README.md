@@ -3,13 +3,15 @@
 
 # Estadística:
   - <a href="https://platzi.com/@octavio_fv/curso/1269-probabilidad-estadistica/diploma/detalle/">Curso de Probabilidad y Estadística</a> ✔️
-  - Curso de Introducción al Pensamiento Probabilístico
-  - Curso de Matemáticas Discretas
+  - <a href="https://platzi.com/clases/probabilistica/">Curso de Introducción al Pensamiento Probabilístico</a>
+  - <a href="https://platzi.com/clases/discretas/">Curso de Matemáticas Discretas</a>
+  - <a href="https://platzi.com/clases/matematicas-ai/">Curso de Fundamentos Matemáticos para Inteligencia Artificial</a>
+  - <a href="https://platzi.com/clases/calculo-multivariable/">Curso de Cálculo Multivariable</a>
   
 # Scraping:
   - <a href="https://platzi.com/@octavio_fv/curso/1751-webscraping/diploma/detalle/">Curso de Web Scraping: Extracción de Datos en la Web</a> ✔️
-  - Curso de Fundamentos de Web Scraping con Python y Xpath
-  - Curso de Scrapy
+  - <a href="https://platzi.com/clases/web-scraping/">Curso de Fundamentos de Web Scraping con Python y Xpath</a>
+  - <a href="https://platzi.com/clases/scrapy/">Curso de Scrapy</a>
   
 # Analítica - Business intelligence:
   - Diplomado business intelligence ✍🏽
