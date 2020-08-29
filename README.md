@@ -45,5 +45,5 @@
   - <a href="https://platzi.com/clases/google-analytics/">Curso de Google Analytics</a>
  
 # Librería digital:
-  - <a href="https://drive.google.com/drive/folders/1qg3f1Quvv5P0RyeX_nWnL-nMYH0s3XkX?usp=sharing">Acceso a librería digital</a>
+  - <a href="https://drive.google.com/drive/folders/1qg3f1Quvv5P0RyeX_nWnL-nMYH0s3XkX?usp=sharing">Acceso a librería digital</a> 🗂📚
   
