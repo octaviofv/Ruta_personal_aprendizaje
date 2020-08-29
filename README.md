@@ -13,7 +13,7 @@
   
 # Analítica - Business intelligence:
   - Diplomado business intelligence ✍🏽
-  - Curso de Excel para el Análisis de Datos ✔️
+  - <a href="https://platzi.com/@octavio_fv/curso/1275-excel-2018/diploma/detalle/">Curso de Excel para el Análisis de Datos</a> ✔️
   - Curso de Introducción a Business Intelligence con Power BI ✔️
 
 # Machine learning:
