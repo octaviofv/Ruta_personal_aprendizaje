@@ -10,7 +10,7 @@
   - Curso de Scrapy
   
 # Analítica - Business intelligence:
-  - Diplomado business intelligence 
+  - Diplomado business intelligence ✍🏽
 
 # Machine learning:
   - Introducción a la minería de datos  ✔️
@@ -18,7 +18,8 @@
   - Curso de Fundamentos Prácticos de Machine Learning ✔️
   - Curso de Machine Learning para Análisis Predictivo
   - Curso Profesional de Machine Learning con Scikit-Learn
-
+  - Machine Learning con Python ✍🏽
+  
 # Inteligencia artificial:
   - Curso de Redes Neuronales en Keras y Scikit-Learn
   - Curso de Deep Learning con Pytorch
