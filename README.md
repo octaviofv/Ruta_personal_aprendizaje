@@ -32,7 +32,7 @@
 # Inteligencia artificial:
   - <a href="https://platzi.com/clases/keras-neural-networks/">Curso de Redes Neuronales en Keras y Scikit-Learn</a>
   - <a href="https://platzi.com/clases/deep-learning/">Curso de Deep Learning con Pytorch</a>
-  - <a href="https://platzi.com/clases/tensorflow-js/>Curso de TensorFlow.js</a>
+  - <a href="https://platzi.com/clases/tensorflow-js/">Curso de TensorFlow.js</a>
   
 # Bases de datos:
   - <a href="https://platzi.com/clases/bd/">Fundamentos de Bases de Datos</a>
