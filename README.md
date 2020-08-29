@@ -1,8 +1,8 @@
 # RUTA PERSONAL DE APRENDIZAJE
-✔️ = Completado
-✍ = Realizando
+✔️ = Completado | ✍ = Realizando
 
 # Estadística:
+  - Curso de Probabilidad y Estadística ✔️
   - Curso de Introducción al Pensamiento Probabilístico
   - Curso de Matemáticas Discretas
   
@@ -13,11 +13,14 @@
   
 # Analítica - Business intelligence:
   - Diplomado business intelligence ✍🏽
+  - Curso de Excel para el Análisis de Datos ✔️
+  - Curso de Introducción a Business Intelligence con Power BI ✔️
 
 # Machine learning:
   - Introducción a la minería de datos  ✔️
   - Curso de Introducción a Machine Learning ✔️
   - Curso de Fundamentos Prácticos de Machine Learning ✔️
+  - Curso Profesional de Ciencia de Datos ✔️
   - Curso de Machine Learning para Análisis Predictivo
   - Curso Profesional de Machine Learning con Scikit-Learn
   - Machine Learning con Python ✍🏽
