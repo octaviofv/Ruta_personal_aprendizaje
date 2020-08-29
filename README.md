@@ -21,7 +21,6 @@
 
 # Machine learning:
   - <a href="https://www.coursera.org/account/accomplishments/verify/FDDSWF53SFVE">Introducción a la minería de datos</a>  ✔️
-  - Curso de Introducción a Machine Learning
   - <a href="https://platzi.com/@octavio_fv/curso/1708-fundamentos-ml/diploma/detalle/">Curso de Fundamentos Prácticos de Machine Learning</a> ✔️
   - <a href="https://platzi.com/@octavio_fv/curso/1621-data/diploma/detalle/">Curso Avanzado de Ciencia de Datos</a> ✔️
   - <a href="https://platzi.com/@octavio_fv/curso/1178-scikit/diploma/detalle/">Curso de Machine Learning Aplicado con Python</a> ✔️
