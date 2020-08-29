@@ -1,4 +1,6 @@
-# ruta de aprendizaje para datascience y data analyst
+# RUTA PERSONAL DE APRENDIZAJE
+✔️ = Completado
+✍ = Realizando
 
 # Estadística:
   - Curso de Introducción al Pensamiento Probabilístico
