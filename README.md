@@ -25,16 +25,17 @@
   - <a href="https://platzi.com/@octavio_fv/curso/1708-fundamentos-ml/diploma/detalle/">Curso de Fundamentos Prácticos de Machine Learning</a> ✔️
   - <a href="https://platzi.com/@octavio_fv/curso/1621-data/diploma/detalle/">Curso Avanzado de Ciencia de Datos</a> ✔️
   - <a href="https://platzi.com/@octavio_fv/curso/1178-scikit/diploma/detalle/">Curso de Machine Learning Aplicado con Python</a> ✔️
-  - Curso de Machine Learning para Análisis Predictivo
-  - Curso Profesional de Machine Learning con Scikit-Learn
+  - <a href="https://platzi.com/clases/analisis-predictivo/">Curso de Machine Learning para Análisis Predictivo</a>
+  - <a href="https://platzi.com/clases/scikitlearn-ml/">Curso Profesional de Machine Learning con Scikit-Learn</a>
+  - <a href="https://platzi.com/clases/pandas/">Curso de Manipulación y Análisis de Datos con Pandas y Python</a>
   - <a href="https://www.udemy.com/course/machinelearningpython/">Machine Learning con Python</a> ✍🏽 
   
 # Inteligencia artificial:
-  - Curso de Redes Neuronales en Keras y Scikit-Learn
-  - Curso de Deep Learning con Pytorch
-  - Curso de TensorFlow.js
+  - <a href="https://platzi.com/clases/keras-neural-networks/">Curso de Redes Neuronales en Keras y Scikit-Learn</a>
+  - <a href="https://platzi.com/clases/deep-learning/">Curso de Deep Learning con Pytorch</a>
+  - <a href="https://platzi.com/clases/tensorflow-js/>Curso de TensorFlow.js</a>
   
 # Bases de datos:
-  - Fundamentos de Bases de Datos
-  - Curso de SQL y MySQL
-  - Curso de SQL en Azure
+  - <a href="https://platzi.com/clases/bd/">Fundamentos de Bases de Datos</a>
+  - <a href="https://platzi.com/clases/sql-mysql/">Curso de SQL y MySQL</a>
+  - <a href="https://platzi.com/clases/sql-azure/">Curso de SQL en Azure</a>
