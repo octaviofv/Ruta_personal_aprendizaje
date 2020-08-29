@@ -23,7 +23,7 @@
   - Curso Profesional de Ciencia de Datos ✔️
   - Curso de Machine Learning para Análisis Predictivo
   - Curso Profesional de Machine Learning con Scikit-Learn
-  - Machine Learning con Python ✍🏽
+  - <a href="https://www.udemy.com/course/machinelearningpython/">Machine Learning con Python</a> ✍🏽 
   
 # Inteligencia artificial:
   - Curso de Redes Neuronales en Keras y Scikit-Learn
@@ -34,4 +34,3 @@
   - Fundamentos de Bases de Datos
   - Curso de SQL y MySQL
   - Curso de SQL en Azure
-  
