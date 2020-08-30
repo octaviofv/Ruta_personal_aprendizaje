@@ -28,6 +28,7 @@
   - <a href="https://platzi.com/clases/scikitlearn-ml/">Curso Profesional de Machine Learning con Scikit-Learn</a>
   - <a href="https://platzi.com/clases/pandas/">Curso de Manipulación y Análisis de Datos con Pandas y Python</a>
   - <a href="https://www.udemy.com/course/machinelearningpython/">Machine Learning con Python</a> ✍🏽 
+  - <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> ✍🏽 
   
 # Inteligencia artificial:
   - <a href="https://platzi.com/clases/keras-neural-networks/">Curso de Redes Neuronales en Keras y Scikit-Learn</a>
