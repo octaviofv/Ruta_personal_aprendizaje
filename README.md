@@ -46,6 +46,7 @@
   - <a href="https://platzi.com/clases/growth-marketing/">Curso de Growth Marketing</a>
   - <a href="https://platzi.com/clases/gtm/">Curso de Introducción a Google Tag Manager</a>
   - <a href="https://platzi.com/clases/google-analytics/">Curso de Google Analytics</a>✔️
+  - <a href="https://learn.datacamp.com/skill-tracks/marketing-analytics-with-python">Marketing analytics with python</a> ✍🏽 
  
 # Librería digital:
   - <a href="https://drive.google.com/drive/folders/1qg3f1Quvv5P0RyeX_nWnL-nMYH0s3XkX?usp=sharing">Acceso a librería digital</a> 🗂📚
