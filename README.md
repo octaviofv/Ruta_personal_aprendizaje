@@ -39,13 +39,13 @@
   - <a href="https://platzi.com/clases/bd/">Fundamentos de Bases de Datos</a>
   - <a href="https://platzi.com/clases/sql-mysql/">Curso de SQL y MySQL</a>
   - <a href="https://platzi.com/clases/sql-azure/">Curso de SQL en Azure</a>
-  - <a href="https://learn.datacamp.com/courses/introduction-to-sql">Introduction to SQL</a>
+  - <a href="https://learn.datacamp.com/courses/introduction-to-sql">Introduction to SQL</a>✔️
+  - <a href="https://learn.datacamp.com/courses/joining-data-in-postgresql">Joining data in SQL</a>✔️
 
 # Marketing:
   - <a href="https://platzi.com/clases/growth-marketing/">Curso de Growth Marketing</a>
   - <a href="https://platzi.com/clases/gtm/">Curso de Introducción a Google Tag Manager</a>
   - <a href="https://platzi.com/clases/google-analytics/">Curso de Google Analytics</a>✔️
-  - <a href="https://learn.datacamp.com/courses/joining-data-in-postgresql">Joining data in SQL</a> ✍🏽 
  
 # Librería digital:
   - <a href="https://drive.google.com/drive/folders/1qg3f1Quvv5P0RyeX_nWnL-nMYH0s3XkX?usp=sharing">Acceso a librería digital</a> 🗂📚
