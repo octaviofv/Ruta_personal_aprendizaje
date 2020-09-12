@@ -29,6 +29,7 @@
   - <a href="https://platzi.com/clases/pandas/">Curso de Manipulación y Análisis de Datos con Pandas y Python</a>
   - <a href="https://www.udemy.com/course/machinelearningpython/">Machine Learning con Python</a> ✍🏽 
   - <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> ✍🏽 
+  - <a href="https://talentodigitalparachile.cl/curso/ciencia-de-datos/">Curso científico de datos</a> ✍🏽 
   
 # Inteligencia artificial:
   - <a href="https://platzi.com/clases/keras-neural-networks/">Curso de Redes Neuronales en Keras y Scikit-Learn</a>
@@ -41,6 +42,7 @@
   - <a href="https://platzi.com/clases/sql-azure/">Curso de SQL en Azure</a>
   - <a href="https://learn.datacamp.com/courses/introduction-to-sql">Introduction to SQL</a>✔️
   - <a href="https://learn.datacamp.com/courses/joining-data-in-postgresql">Joining data in SQL</a>✔️
+  - <a href="https://learn.datacamp.com/courses/data-driven-decision-making-in-sql">Data-Driven Decision Making in SQL</a>✔️
 
 # Marketing:
   - <a href="https://platzi.com/clases/growth-marketing/">Curso de Growth Marketing</a>
