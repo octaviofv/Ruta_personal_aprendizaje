@@ -18,6 +18,7 @@
   - <a href="https://platzi.com/@octavio_fv/curso/1275-excel-2018/diploma/detalle/">Curso de Excel para el Análisis de Datos</a> ✔️
   - <a href="https://platzi.com/@octavio_fv/curso/1578-business-intelligence/diploma/detalle/">Curso de Introducción a Business Intelligence con Power BI</a> ✔️
   - <a href="https://drive.google.com/file/d/0BzBc5avlxU06NDJyM1U2TTFsd1YtZHRDb3Z1MjN2VE1LbXVV/view">Curso big data y business analytics</a> ✔️
+  - <a href="#">Taller Data Analysis</a> ✔️
 
 # Machine learning:
   - <a href="https://www.coursera.org/account/accomplishments/verify/FDDSWF53SFVE">Introducción a la minería de datos</a>  ✔️
