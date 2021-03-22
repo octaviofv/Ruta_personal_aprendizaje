@@ -51,6 +51,9 @@
   - <a href="https://platzi.com/clases/google-analytics/">Curso de Google Analytics</a>
   - <a href="https://learn.datacamp.com/skill-tracks/marketing-analytics-with-python">Marketing analytics with python</a> ✍🏽 
  
+# Python:
+  - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code - The Complete Python Pro Bootcamp for 2021</a> ✍🏽 
+
 # Librería digital:
   - <a href="https://drive.google.com/drive/folders/1qg3f1Quvv5P0RyeX_nWnL-nMYH0s3XkX?usp=sharing">Acceso a librería digital</a> 🗂📚
   
