@@ -21,7 +21,7 @@
   - <a href="https://desafiosdev.s3.amazonaws.com/uploads/certification/image/10013/certificado-participacion-taller-data-analysis-g41-8163.png">Taller Data Analysis</a> ✔️
 
 # Machine learning:
-  - <a href="#">Diplomado científico de datos</a> ✍🏽 
+  - <a href="#">Diplomado científico de datos</a> ✔️
   - <a href="https://www.coursera.org/account/accomplishments/verify/FDDSWF53SFVE">Introducción a la minería de datos</a>  ✔️
   - <a href="https://platzi.com/@octavio_fv/curso/1708-fundamentos-ml/diploma/detalle/">Curso de Fundamentos Prácticos de Machine Learning</a> ✔️
   - <a href="https://platzi.com/@octavio_fv/curso/1621-data/diploma/detalle/">Curso Avanzado de Ciencia de Datos</a> ✔️
