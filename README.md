@@ -54,6 +54,27 @@
 # Python:
   - <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code - The Complete Python Pro Bootcamp for 2021</a> ✍🏽 
 
+# Data science foco marketing
+  - Lead scoring accuracy
+  - Customer churn
+  - Dynamic pricing models
+  - Sentiment Analysis
+  - A/B test
+  - Customer segmentation - personalization:
+    - Based engagement
+    - Based purchase patterns
+    - Based potential life time value
+  - Recsys
+  - Chatbots
+  - Market basket analysis
+  - Optimization of marketing campaigns
+  - Optimal campaign channels and content
+  - Maintaining customer loyalty
+  - Cross selling
+  - Up selling
+  - Budget optimization
+  - Customer persona development
+
 # Librería digital:
   - <a href="https://drive.google.com/drive/folders/1qg3f1Quvv5P0RyeX_nWnL-nMYH0s3XkX?usp=sharing">Acceso a librería digital</a> 🗂📚
   
